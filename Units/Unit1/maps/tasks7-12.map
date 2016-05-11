@@ -1,0 +1,36 @@
+<world>
+<properties>
+defaultSize height='10' width='10'/>
+</properties>
+<objects>
+<beeper x='1' y='4' num='1'/>
+<wall x='1' y='4' length='1' style='horizontal'/>
+<wall x='2' y='6' length='1' style='horizontal'/>
+<beeper x='2' y='4' num='1'/>
+<wall x='2' y='4' length='1' style='horizontal'/>
+<wall x='3' y='6' length='1' style='horizontal'/>
+<wall x='3' y='4' length='1' style='horizontal'/>
+<wall x='4' y='6' length='1' style='horizontal'/>
+<beeper x='4' y='4' num='1'/>
+<wall x='4' y='4' length='1' style='horizontal'/>
+<wall x='5' y='6' length='1' style='horizontal'/>
+<beeper x='5' y='4' num='1'/>
+<wall x='5' y='4' length='1' style='horizontal'/>
+<beeper x='6' y='4' num='1'/>
+<wall x='6' y='4' length='1' style='horizontal'/>
+<wall x='7' y='6' length='1' style='horizontal'/>
+<wall x='7' y='4' length='1' style='horizontal'/>
+<beeper x='7' y='1' num='2'/>
+<wall x='7' y='1' length='1' style='vertical'/>
+<beeper x='8' y='1' num='1'/>
+<beeper x='9' y='7' num='1'/>
+<wall x='9' y='6' length='1' style='horizontal'/>
+<beeper x='9' y='4' num='1'/>
+<wall x='9' y='4' length='1' style='horizontal'/>
+<wall x='10' y='6' length='1' style='horizontal'/>
+<beeper x='10' y='4' num='1'/>
+<wall x='10' y='4' length='1' style='horizontal'/>
+<wall x='10' y='4' length='1' style='vertical'/>
+<wall x='10' y='3' length='1' style='vertical'/>
+</objects>
+</world>

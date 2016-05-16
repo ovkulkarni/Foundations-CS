@@ -3,6 +3,6 @@
    {
        public int compare(Salesperson arg1, Salesperson arg2)
       {
-         return arg1.getName().compareTo(arg2.getName());
+         return -1* (arg1.getName().compareTo(arg2.getName()));
       }
    }
